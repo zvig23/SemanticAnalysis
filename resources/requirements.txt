@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+Pillow
+wordcloud
+nltk
+spacy
+tqdm
+scipy
+scikit-learn
+xgboost
+torch
