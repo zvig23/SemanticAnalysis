@@ -1,1 +1,2 @@
-/resources/indobert_tweet_classifier.pt
+*.pt
+*.csv
